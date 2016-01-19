@@ -459,7 +459,7 @@ public class Gui extends Application {
 			public void handle(ActionEvent e) {
 
 				// Klasse Modaler Dialog
-				ModalerDialog1860 mDialog0 = new ModalerDialog1860();
+				ModalerDialog mDialog0 = new ModalerDialog();
 
 				mDialog0.showAndWait(); // Blockiert das normale Fenster der Gui
 
@@ -1013,7 +1013,7 @@ public class Gui extends Application {
 
 			public void handle(ActionEvent ae) {
 
-				ModalerDialogCrawler1860 mDialog1 = new ModalerDialogCrawler1860();
+				ModalerDialogCrawler mDialog1 = new ModalerDialogCrawler();
 
 				mDialog1.showAndWait();
 

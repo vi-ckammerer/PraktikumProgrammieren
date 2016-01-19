@@ -145,34 +145,6 @@
 		<Deutsch>Mannschaft, Besatzung</Deutsch>
 	</Datensatz>
 	<Datensatz>
-		<Englisch>deadline</Englisch>
-		<Deutsch>Stichtag</Deutsch>
-	</Datensatz>
-	<Datensatz>
-		<Englisch>department</Englisch>
-		<Deutsch>Abteilung</Deutsch>
-	</Datensatz>
-	<Datensatz>
-		<Englisch>desaster</Englisch>
-		<Deutsch>Debakel, Fiasko, Missgeschick, Unglück, Drama</Deutsch>
-	</Datensatz>
-	<Datensatz>
-		<Englisch>discounter</Englisch>
-		<Deutsch>Billiganbieter</Deutsch>
-	</Datensatz>
-	<Datensatz>
-		<Englisch>disk</Englisch>
-		<Deutsch>Lichtscheibe</Deutsch>
-	</Datensatz>
-	<Datensatz>
-		<Englisch>download</Englisch>
-		<Deutsch>Herunterladen eines Datenpaketes</Deutsch>
-	</Datensatz>
-	<Datensatz>
-		<Englisch>dumping</Englisch>
-		<Deutsch>Schleuderpreis, Unterbieten der Preise</Deutsch>
-	</Datensatz>
-	<Datensatz>
 		<Englisch>elite</Englisch>
 		<Deutsch>Auslese, Garde</Deutsch>
 	</Datensatz>
@@ -441,7 +413,7 @@
 		<Deutsch>Jahreszeit</Deutsch>
 	</Datensatz>
 	<Datensatz>
-		<Englisch>self-made man</Englisch>
+		<Englisch>self-made</Englisch>
 		<Deutsch>Unternehmer</Deutsch>
 	</Datensatz>
 	<Datensatz>
@@ -1305,10 +1277,6 @@
 		<Deutsch>Blindkopie</Deutsch>
 	</Datensatz>
 	<Datensatz>
-		<Englisch>Blinddate</Englisch>
-		<Deutsch>Verabredung (mit Unbekannt), Erstbegegnung</Deutsch>
-	</Datensatz>
-	<Datensatz>
 		<Englisch>Blind Date</Englisch>
 		<Deutsch>Verabredung (mit Unbekannt), Erstbegegnung</Deutsch>
 	</Datensatz>
@@ -1501,12 +1469,8 @@
 		<Deutsch>Zwischenhalt (bei Autorennen)</Deutsch>
 	</Datensatz>
 	<Datensatz>
-		<Englisch>Das Boxen</Englisch>
-		<Deutsch>Faustkampf, faustkämpfen</Deutsch>
-	</Datensatz>
-	<Datensatz>
-		<Englisch>Die Boxen</Englisch>
-		<Deutsch>Lautsprecher</Deutsch>
+		<Englisch>Boxen</Englisch>
+		<Deutsch>(Technik) Lautsprecher, (Sport) Faustkampf, faustkämpfen</Deutsch>
 	</Datensatz>
 	<Datensatz>
 		<Englisch>Boxershorts</Englisch>
@@ -2379,5 +2343,497 @@
 	<Datensatz>
 		<Englisch>Crack</Englisch>
 		<Deutsch>Alleskönner, Spezialist, Knabbergebäck, Kopierschutzentfernung</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Crash</Englisch>
+		<Deutsch>Absturz, Aufprall, Börsenkrach, Krach, Pleite, Sturz, Unfall, Zusammenbruch, Zusammenstoß</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>crashen</Englisch>
+		<Deutsch>zusammenstoßen, zusammenbrechen, zusammenkrachen</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Crash Diät</Englisch>
+		<Deutsch>Radikaldiät </Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>crash test</Englisch>
+		<Deutsch>Aufpralltest</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>crazy</Englisch>
+		<Deutsch>verrückt, irre</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>creative director</Englisch>
+		<Deutsch>(Werbe-)Agenturleiter</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Credits</Englisch>
+		<Deutsch>Danksagung, Abspann</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Crew</Englisch>
+		<Deutsch>Besatzung</Deutsch>
+	</Datensatz>	
+	<Datensatz>
+		<Englisch>crossbike</Englisch>
+		<Deutsch>Querfeldeinrad</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Crowdfunding</Englisch>
+		<Deutsch>Schwarmfinanzierung</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>cruise missile</Englisch>
+		<Deutsch>Marschflugkörper</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>crushed ice</Englisch>
+		<Deutsch>Stoßeis</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Curling</Englisch>
+		<Deutsch>Eisstockschießen</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>cursor</Englisch>
+		<Deutsch>Marke, Schreibmarke</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>customer care</Englisch>
+		<Deutsch>Kundenbetreuung</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>custromer relationship</Englisch>
+		<Deutsch>Systematische Kundenbetreuung</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Customizing</Englisch>
+		<Deutsch>gemäß Kundenwunsch anpassen</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Cutter</Englisch>
+		<Deutsch>Schneidmesser</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>cut and paste</Englisch>
+		<Deutsch>ausschneiden &amp; einfügen</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Cyperspace</Englisch>
+		<Deutsch>Simraum, virtuelle Netzwelt</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Cyborg</Englisch>
+		<Deutsch>Menschmaschine</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Cybercrime</Englisch>
+		<Deutsch>Netzkriminalität</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Daddy</Englisch>
+		<Deutsch>Vati, Papa, Mami</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>daily</Englisch>
+		<Deutsch>(all-)täglich</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>daily report</Englisch>
+		<Deutsch>Tagesbericht</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>daily soap</Englisch>
+		<Deutsch>Seifenoper</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Dance Floor</Englisch>
+		<Deutsch>Tanzboden, Tanzfläche</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Darkroom</Englisch>
+		<Deutsch>Dunkelkammer</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Darling</Englisch>
+		<Deutsch>Liebling, Schatz, Schätzchen</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Dashboard</Englisch>
+		<Deutsch>Anzeigefenster</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Database</Englisch>
+		<Deutsch>Datenbank</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Data mining</Englisch>
+		<Deutsch>Daten schürfen</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Dating</Englisch>
+		<Deutsch>Verabredung</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>daten</Englisch>
+		<Deutsch>verabreden</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Datingvermittlung</Englisch>
+		<Deutsch>Partnervermittlung</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Datenhighwayy</Englisch>
+		<Deutsch>Datenautobahn</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Daydream</Englisch>
+		<Deutsch>Tagtraum</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>day trading</Englisch>
+		<Deutsch>Tagesgeschäft</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Dead</Englisch>
+		<Deutsch>tot, abgestellt, energie-, bewegungslos, leblos</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Deadlock</Englisch>
+		<Deutsch>Blockade</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Deadline</Englisch>
+		<Deutsch>Frist, Termin</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>deal</Englisch>
+		<Deutsch>Geschäftsabschluss, krumme Tour, Handel</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>dealen</Englisch>
+		<Deutsch>handeln</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>debriefing</Englisch>
+		<Deutsch>Nachbesprechung (nach einem Einsatz), Erlebnisse verarbeiten</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>debug</Englisch>
+		<Deutsch>Fehlerbehebung</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Debugger</Englisch>
+		<Deutsch>Testhilfe, Fehlersuchprogramm</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>debuggen</Englisch>
+		<Deutsch>Fehler beseitigen</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Decoder</Englisch>
+		<Deutsch>Dekodierer, Entschlüsseler, Entzifferer, Umwandler </Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Defaultwert</Englisch>
+		<Deutsch>Standardwert</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Defroster</Englisch>
+		<Deutsch>Enteiser</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>defrosten</Englisch>
+		<Deutsch>enteisen</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Defroster</Englisch>
+		<Deutsch>Enteiser</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>deluxe</Englisch>
+		<Deutsch>erstklassig</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>denialOfService</Englisch>
+		<Deutsch>Zugangsverweigerung</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Deostick</Englisch>
+		<Deutsch>Deodorantstift</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>department</Englisch>
+		<Deutsch>Abteilung</Deutsch>
+		</Datensatz>
+		<Datensatz>
+		<Englisch>deployen</Englisch>
+		<Deutsch>platzieren, einbauen</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>Derby</Englisch>
+		<Deutsch>Lokalrivalität</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>desaster</Englisch>
+		<Deutsch>Debakel, Fiasko, Missgeschick, Unglück, Drama</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>designen</Englisch>
+		<Deutsch>entwerfen, gestalten, konstruieren</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>designerdroge</Englisch>
+		<Deutsch>Chemiedroge, künstliches Rauschmittel</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>designerfood</Englisch>
+		<Deutsch>genverändertes Essen</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>desksharing</Englisch>
+		<Deutsch>Arbeitsplatzteilen</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>desktop</Englisch>
+		<Deutsch>Arbeitsfläche</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>desktopcomputer</Englisch>
+		<Deutsch>Tischrechner, Rechner im Gehäuse</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>developer</Englisch>
+		<Deutsch>Entwickler</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>development</Englisch>
+		<Deutsch>Entwicklung, Wachstum</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>dialup</Englisch>
+		<Deutsch>Einwählverbindung</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>digicam</Englisch>
+		<Deutsch>Digitalkamera</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>dimmen</Englisch>
+		<Deutsch>(Licht) dämpfen</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>dimmer</Englisch>
+		<Deutsch>Helligkeitsregler</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>diner</Englisch>
+		<Deutsch>Speisewagen</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>dinner</Englisch>
+		<Deutsch>Abendessen, Festessen</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>directorscut</Englisch>
+		<Deutsch>Fassung des Regisseurs, Spielleiterfassung</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>disc</Englisch>
+		<Deutsch>Diskette, Platte, Scheibe</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>disclaimer</Englisch>
+		<Deutsch>Haftungsausschuss</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>disco</Englisch>
+		<Deutsch>Tanzlokal, Tanzschuppen, Musiklokal</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>discount</Englisch>
+		<Deutsch>Rabatt, Preisabschlag, Preisnachlass</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>discounter</Englisch>
+		<Deutsch>Billigmarkt, Supermarkt</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>dj</Englisch>
+		<Deutsch>Aufleger, Plattenaufleger, Musikvorführer</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>diskjockey</Englisch>
+		<Deutsch>Aufleger, Plattenaufleger, Musikvorführer</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>display</Englisch>
+		<Deutsch>Bildschirm, Anzeige, Anzeigefeld</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>dissen</Englisch>
+		<Deutsch>beleidigen, beschimpfen</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>district</Englisch>
+		<Deutsch>Bezirk, Disktrikt, Gebiet</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>diversity</Englisch>
+		<Deutsch>Verschiedenheit, Auswahl, Mannifgaltigkeit, Vielfalt</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>diversitiv</Englisch>
+		<Deutsch>vielfältig, verschieden, mannigfaltig</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>doc</Englisch>
+		<Deutsch>Doktor</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>dogfight</Englisch>
+		<Deutsch>Nahkampf</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>doItYourself</Englisch>
+		<Deutsch>Heimwerken, Selbermachen, Selbstmachen</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>dokusoap</Englisch>
+		<Deutsch>Unterhaltungsdokumentation</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>domain</Englisch>
+		<Deutsch>Arbeitsgebiet, Domäne, Bereich, Funktionsbereich</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>dongle</Englisch>
+		<Deutsch>Kopierschutzstecker</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>donut</Englisch>
+		<Deutsch>Kringel, Schmalzgebäckkringel</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>doorman</Englisch>
+		<Deutsch>Portier</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>dopen</Englisch>
+		<Deutsch>aufputschen, anregen</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>dopingmittel</Englisch>
+		<Deutsch>Aufputschmittel</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>doppeljobber</Englisch>
+		<Deutsch>Doppelbeschäftigter</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>double</Englisch>
+		<Deutsch>Doppelgänger</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>downgraden</Englisch>
+		<Deutsch>abrüsten, herunterstufen, abspecken</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>downgrade</Englisch>
+		<Deutsch>Herunterstufung</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>downhill</Englisch>
+		<Deutsch>Abfahrtslauf, Hangabfahrt</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>download</Englisch>
+		<Deutsch>Hunterladung, Herunterladen eines Datenpaketes</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>downloaden</Englisch>
+		<Deutsch>herunterladen</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>downsizing</Englisch>
+		<Deutsch>schrumpfen, verkleinern</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>downtime</Englisch>
+		<Deutsch>Ausfallzeit</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>dragqueen</Englisch>
+		<Deutsch>Fummeltrine, Tranvestit </Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>dreadlocks</Englisch>
+		<Deutsch>Rastalocken</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>dreamteam</Englisch>
+		<Deutsch>Traummannschaft, Traumtruppe</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>dresscode</Englisch>
+		<Deutsch>Kleiderordnung</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>dressing</Englisch>
+		<Deutsch>Marinade, (Salat-)Soße</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>drink</Englisch>
+		<Deutsch>alkoholisches Getränk, Trank, Trunk</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>drivein</Englisch>
+		<Deutsch>Autoschalter, Straßenrandlokal, Schnellrestaurantschalter</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>dropDownMenü</Englisch>
+		<Deutsch>Auswahlmenü</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>drugstore</Englisch>
+		<Deutsch>Drogerie</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>drummer</Englisch>
+		<Deutsch>Schlagzeuger, Trommler</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>drumsticks</Englisch>
+		<Deutsch>Schlagzeugstöcke, Trommelstöcke</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>dummy</Englisch>
+		<Deutsch>Versuchspuppe, Attrappe</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>dumping</Englisch>
+		<Deutsch>Preisdrücken, Preisunterbietung</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>dumpingpreis</Englisch>
+		<Deutsch>Schleuderpreis</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>durchstylen</Englisch>
+		<Deutsch>komplett gestalten, durchgestalten, voll aufmachen, voll aufbrezeln</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>dutyfree</Englisch>
+		<Deutsch>zollfrei, abgaben- und steuerfrei</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>dvdplayer</Englisch>
+		<Deutsch>DVD-Spieler</Deutsch>
+	</Datensatz>
+	<Datensatz>
+		<Englisch>disk</Englisch>
+		<Deutsch>Lichtscheibe</Deutsch>
 	</Datensatz>
 </Referenzdaten>
